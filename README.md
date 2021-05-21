@@ -11,6 +11,13 @@
 
   ![image](https://user-images.githubusercontent.com/66998320/119071110-ceb84c00-ba1b-11eb-85dd-4b2ae18ec106.png)
   
+四、触发器的地址就是你需要回调的地址
+  ![image](https://user-images.githubusercontent.com/66998320/119071535-92d1b680-ba1c-11eb-84fe-f8fed42d846a.png)
+
+五、阿里云报警规则填写填写函数回调地址即可
+  ![image](https://user-images.githubusercontent.com/66998320/119071704-e217e700-ba1c-11eb-9b28-6372672d48e7.png)
+
+  
 效果
 
   
